@@ -1,6 +1,11 @@
 h1 {
+<<<<<<< HEAD
     color: green;
     background-color: blueviolet;
     font-size: 45px;
     width: 400px;
  }
+=======
+    color: blue;
+ }
+>>>>>>> b5a306f548c1d14f47dad7f3f68dbfabaceb4a10
