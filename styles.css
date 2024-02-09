@@ -1,11 +1,15 @@
 h1 {
 <<<<<<< HEAD
+<<<<<<< HEAD
     color: red;
     background-color: blue;
     font-family: 'Courier New', Courier, monospace;
  }
 =======
     color: blue;
+=======
+    color: green;
+>>>>>>> 8fc1200 (changed color to green)
     background-color: blueviolet;
     font-size: 45px;
     width: 400px;
